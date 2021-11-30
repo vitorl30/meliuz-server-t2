@@ -1,4 +1,107 @@
 {
-    "products":[],
-    "categories":[]
-}
+    "products": [
+      {
+        "name": "Iphone",
+        "price": "3000",
+        "category": "phone",
+        "id": 1
+      },
+      {
+        "name": "Iphone",
+        "price": "3000",
+        "category": "phone",
+        "id": 2
+      },
+      {
+        "name": "Iphone",
+        "price": "3000",
+        "category": "phone",
+        "id": 3
+      },
+      {
+        "name": "Iphone",
+        "price": "3000",
+        "category": "phone",
+        "id": 4
+      },
+      {
+        "name": "Iphone",
+        "price": "3000",
+        "category": "phone",
+        "id": 5
+      },
+      {
+        "name": "Iphone",
+        "price": "3000",
+        "category": "phone",
+        "id": 6
+      },
+      {
+        "name": "Iphone",
+        "price": "3000",
+        "category": "phone",
+        "id": 7
+      },
+      {
+        "name": "Iphone",
+        "price": "3000",
+        "category": "phone",
+        "id": 8
+      },
+      {
+        "name": "Iphone",
+        "price": "3000",
+        "category": "phone",
+        "id": 9
+      },
+      {
+        "name": "Iphone",
+        "price": "3000",
+        "category": "phone",
+        "id": 10
+      },
+      {
+        "name": "Iphone",
+        "price": "3000",
+        "category": "phone",
+        "id": 11
+      },
+      {
+        "name": "Iphone",
+        "price": "3000",
+        "category": "phone",
+        "id": 12
+      },
+      {
+        "name": "Iphone",
+        "price": "3000",
+        "category": "phone",
+        "id": 13
+      },
+      {
+        "name": "Iphone",
+        "price": "3000",
+        "category": "phone",
+        "id": 14
+      },
+      {
+        "name": "Iphone",
+        "price": "3000",
+        "category": "phone",
+        "id": 15
+      },
+      {
+        "name": "Iphone",
+        "price": "3000",
+        "category": "phone",
+        "id": 16
+      }
+    ],
+    "categories": [],
+    "person": [
+      {"name": "Melquias"},
+      {"name": "Rebeca"},
+      {"name": "Bruno"},
+      {"name": "Ian"}
+    ]
+  }
